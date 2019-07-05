@@ -1,3 +1,7 @@
+# Parcel generated
+.cache
+dist
+
 # Logs
 logs
 *.log
