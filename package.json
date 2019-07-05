@@ -1,0 +1,27 @@
+{
+  "name": "d3-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "D3 + TypeScript Boilerplate",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miletich/d3-ts-boilerplate.git"
+  },
+  "keywords": [
+    "d3.js",
+    "typescript"
+  ],
+  "author": "Dušan Miletić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miletich/d3-ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/miletich/d3-ts-boilerplate#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.2"
+  }
+}
